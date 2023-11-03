@@ -1,0 +1,36 @@
+OutPut1
+                        { "name": "First", "value": "N" },
+				{ "name": "Second", "value": "Glazed" },
+				{ "name": "Third", "value": "Chocolate" },
+				{ "name": "Fourth", "value": "Maple" }
+			      { "name": "Fifth", "value": "None" },
+				{ "name": "Six", "value": "4" },
+				{ "name": "Seven", "value": "" },
+				{ "name": "Eight", "value": "7" }
+                        { "name": "Nine", "value": "105" },
+				{ "name": "Ten", "value": "false" }
+
+
+
+  OUTPUT2               { "name": "First", "value": "N" },
+				{ "name": "Second", "value": "Glazed" },
+				{ "name": "Third", "value": "Chocolate" },
+				{ "name": "Fourth", "value": "Maple" }
+			      { "name": "Fifth", "value": "None" },
+				{ "name": "Seven", "value": "" },
+				{ "name": "Eight", "value": "7" }
+                        { "name": "Nine", "value": "105" },
+				{ "name": "Ten", "value": "false" }
+Hi Vidya,
+I am getting two output like these above output.
+ the values coming under name(key) will be exact match between both output
+ names will be exact match between both the output however their corresponding values can change.
+so i need to compare the corresponding values for the corresponding names.
+
+And if you see in output 2 >{ "name": "Six", "value": "4" } this entry is missing.
+so i need to ignore comaprasion for this particular name value since it is missing from one output.
+
+For now i tried to store both  data in Hashmap and  try to compare them using for loop, but  it is failing when it will come this set({ "name": "Six", "value": "4" },)
+
+as on 6th iteration it will starting comparing ({ "name": "Six", "value": "4" },) form output 1 to this  { "name": "Seven", "value": "" } from output 2.
+

@@ -1,0 +1,86 @@
+Manual
+1.Test coverage
+2 Can system testing be done at any stage
+3. What are the different kinds of software Testing
+4. What is agile testing and what is it's importance
+5. What is to be done  when bug turns up during testing
+6.what to do when a bug is encountered 
+7. What to you mean by exploratory testing
+8.what is verified white box testing
+9.what is black box testing and testing technique
+10.what is verification and validation
+11.distinguish between system testing and UAT
+12.define mutation testing
+13.categories of debugging
+14.what is testing types and what are the commonly used testing types.
+15.Test case and test scenarios for any product. 
+16.Defect life cycle. 
+17.What is smoke testing
+18regression testing?
+19.bug life cycle
+20.STLC
+21.QA and QC difference
+22.Explain SDLC
+23.Defect Life Cycle?
+24.What is Test case?
+25.What is Test scenario?
+26.What is Test environment(test bed)?
+27.What is agile?
+28.What is Sanity Testing?
+29.What is RegressionTesting?
+30.What is Deferrred?
+31.Explain about scrum?
+32.What is Retesting?
+33.What is BRD(Business Requirement document)?
+34.What is SRS(Software Requirement specification)?
+35.Why we go for testing?purpose of doing testing?
+36.Write test cases for amazon(they will give any functionality)
+37.difference between smoke and sanity testing and regression testing
+38.About documents BRS, FRS, SRS.
+39.what is testing
+40.what is jira
+41.stlc process and explain individually what are all the documents prepared in stlc process
+42.Devloped and testing different
+43.Verification validation
+44.Unit testing
+45.Database testing
+46.SQL queries
+47.Test case for Flipkart
+48.16. Palindrome number
+49. Fibonacci series
+50.Types of testing
+51.What is data base
+52. WHAT IS WHITE BOX TESTING?
+53. WHAT IS WHAT IS REGRESSION TESTING?
+54. INTEGRATION TESTING?
+55.What is verification & validation?
+56.What is RTM?
+57.What is risk analysis?
+58.Draw SBLC(bug life cycle) flow chart
+59.QA&QC
+60.What is boundary value analysis and state transition with example?
+61.Static and Dynamic testing techniques
+62.White box and black box testing
+63.What is negative test cases
+64.What is test plan?
+65.What is test strategy?
+66.priority and severity types and examples
+67.Compatibility testing
+68.Types of non-functional testing
+69.Difference between compatibility and cross browser testing
+70.When to stop testing?
+71.What are all the attribites available in test cases?
+72.Difference between test case and use case?
+73.Write a test cases for login functionality
+74What is defect Id?
+75How to make a bug report in JIRA?
+76What is Bug report?
+77.How to make a test scripts reports in JIRA?(Automation report)
+78.What is to be done  when bug turns up during testing
+79.Funtional Testing and Non Functional Testing ?
+80.test case for mobile and pen
+81.Testing
+82.finding the severity and priority  in real time
+83.Testcases for watch
+84.Test cases for button phone
+85.Defect life life 
