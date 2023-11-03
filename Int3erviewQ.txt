@@ -1,0 +1,32 @@
+
+Interviewq
+Hi all,  I have attended interview in infosys last week. Pls find the list of questions asked for 1 to 2 year experience profile in first round.
+1.Tell me about yourself
+2.Why string is immutable?
+3.Difference b/w Abstract class and interface?
+4.Write a program to find largest number in the array?
+5.What is static method and static variable?
+6.What is final keyword?
+7.Explain oops concept?
+8.What are the builtin functions in java?
+9.How to write program to convert uppercase to lowercase?
+10.What is difference between overloading and overridding?
+11.Explain thread types?
+12.Explain about Hashmap?
+13.What are the Access modifiers and explain?
+14.Explain Finally block?
+15.Tell me syntax of DB connection?
+16.Explain about waits in selenium and which wait is better?
+17.How to take screenshot and tell me syntax of screenshot?
+18.how to come back and go forward of a page in selenium?
+19.What are the testng annotations?
+20.How you handle popups?
+21.What are the locators?
+22.What is xpath and its types? which xpath(Absolute or Relative) is better?
+23.What are the exceptions in selenium and explain?
+24.What are the annotations in testNG?
+25.Difference b/w close and quit?
+26.How you handle windows?
+27.Explain about Page object Model?
+28.How you will doubleclick in selenium?
+29.How you write script for Signup form? how u take data to test? how to handle when you run the test case multiple times in the negative case?

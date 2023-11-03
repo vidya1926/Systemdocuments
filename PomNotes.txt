@@ -1,0 +1,42 @@
+Today's Agenda:
+===============
+POM->Page Object Model
+=========
+design pattern-->to build framework
+
+-->set of rules /structure -framework
+
+-Uniformity
+-reduces redundancy(duplication)
+-Easy maintainence
+-Better Productivity
+-Supports Multi-lingual application
+
+-design pattern to create object repository for the UI (WebElements)
+
+
+===============
+Steps to Create POM-
+====================
+1.Create a base package-->create a class as  ProjectSpecificMethod ..place all the commonsteps related to the project
+
+2.Create the package pages to show navigation
+      Create java class file for each page navigation
+	  All pages should extend ProjectSpecificMethod
+
+
+Loginpage-->   WelcomePage-->	HomePage-->    Leads-->				CreateLeadsPage -->ViewLeadpage
+
+
+Enter Username   Click CRMSFA	Click Leads    Click CreateLead		Enter Cnmae			Verify Created Lead
+Enter Password														Enter Fname
+Login																Enter Lnmae
+																	Click Create
+
+3.Create methods for each action in the respective page classes and each method should have return type
+
+4.Create a package testcase 
+  Create a class for each testcase 
+  Class -->logintest
+			-->build the steps for execution
+5.Make chromedriver as static 

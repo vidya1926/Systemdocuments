@@ -1,0 +1,55 @@
+Jenkins
+=========
+-CI/CD tool
+-Continuous integration and continuous depolyment
+
+
+Developer -->dev Environment-->unit testing-->build-->testing team-->Automation
+  --> deploy SIT (System intergrated Testing)Envinment-->Automated -->UAT-->BDD automation-->product depolyment
+
+How to create a automation job in jenkins and how to schedule the jenkins job
+how to integrate maven project and source code management to trigger the automation
+
+
+Pre requisites  -jenkins 
+
+Github
+Maven
+Jenkins
+
+cmd from downloaded file
+java -jar jenkins.jar
+
+password -->copy the password
+-->fully up
+
+chrome-->type localhost:8080
+
+paste the pwd to the req field
+
+install plugin-->Git Maven Email Extention
+
+Manage jenkins-->manage plugin -->check for Maven git and Email Extention plugin
+
+MAnage jenkins-->Global tool configuration-->configure git mavan and java path
+
+Email Configuration:
+===============
+
+Manage Jenkins-->Configure system ->Extended Email notification
+-->smtp.gmail.com-->port 465-->user credential-->click Use SSL
+
+
+cd C:\Users\dell\OneDrive - TestLeaf Software Solutions Private Limited\Desktop\newman
+newman run ServiceNow_Chaining_Newman.postman_collection.json -e Environment.postman_environment.json -g Globals.postman_globals.json -r htmlextra
+
+
+
+
+
+
+
+powershell Compress-Archive
+
+
+

@@ -1,0 +1,28 @@
+Window handling-Vidya
+Alert- Supraja
+Comparision Xpath-Princilla
+
+
+
+Different approaches to handle new window
+
+Window handle-Explain
+
+there is a -Api call 
+
+java binding and methods
+
+Strategy
+set to list (jav-lang)
+iterator
+conditional chas
+
+Exception
+
+challenges
+IE -prob --unique property --extra input
+
+
+
+saheel EY assessment
+
